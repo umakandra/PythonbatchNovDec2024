@@ -4,12 +4,15 @@ python
 Git commands
 To clone a repository ( not in codespace, but in local development)
 
-git clone git clone hhtps...(URL)
-To list the local branches
+git clone 
 
+git clone [hhtps...(URL)](https://github.com/umakandra/PythonbatchNovDec2024.git)
+
+To list the local branches
 git branch
+
 To create a branch
-         git checkout -b class02
+    git checkout -b class02
 
 To see the latest local changes
 
@@ -31,16 +34,13 @@ To push the changes
 
 
 
-Daily
+###Daily
+
 To check the branch is clean
-
-git status
+    git status
 To checkout the main branch
-
-git checkout main
+    git checkout main
 To get the latest changes
-
-git pull origin main 
+    git pull origin main 
 To create new branch
-
-git checkout -b <new branch name>
+    git checkout -b <new branch name>
